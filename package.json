@@ -1,0 +1,23 @@
+{
+  "name": "node_exercices",
+  "version": "1.0.0",
+  "description": "\"# Node_Exercices\"",
+  "main": "ex01.js",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgecensi/Node_Exercices.git"
+  },
+  "author": "Jorge Censi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgecensi/Node_Exercices/issues"
+  },
+  "homepage": "https://github.com/jorgecensi/Node_Exercices#readme"
+}
